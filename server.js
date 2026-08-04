@@ -1,0 +1,10 @@
+const express = require('express');
+const path = require('path');
+const fs = require('fs');
+const app = express();
+const PORT = process.env.PORT || 10000;
+const catalogo = JSON.parse(fs.readFileSync(path.join(__dirname, 'data', 'catalogo.json'), 'utf-8'));
+app.use(express.static(path.join(__dirname, 'public')));
+app.get('/api/catalogo', (req, res) => res.json(catalogo));
+app.get('/healthz', (req, res) => res.status(200).send('ok'));
+app.listen(PORT, () => console.log('Catálogo C4 en puerto ' + PORT));

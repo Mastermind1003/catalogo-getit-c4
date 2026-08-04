@@ -1,0 +1,317 @@
+{
+  "meta": { "titulo": "Catálogo Promocional Ciclo 4", "vigencia": "1 de julio al 31 de agosto 2026" },
+  "categorias": [
+    { "id": "combo-marraqueta", "titulo": "¡Combo Marraqueta!", "icono": "🥖", "productos": [
+      {"nombre":"Aliado + Café 9 oz","precio":3890,"referencia":4880,"ahorro":990},
+      {"nombre":"Aliado Palta + Café 9 oz","precio":4790,"referencia":5980,"ahorro":1190,"digitar":"14350"},
+      {"nombre":"Pan Palta + Café 9 oz","precio":4490,"referencia":5480,"ahorro":990,"digitar":"14350"},
+      {"nombre":"Ave Pimentón + Café 9 oz","precio":4890,"referencia":6180,"ahorro":1290,"digitar":"14350"},
+      {"nombre":"Pan Huevo Jamón + Café 9 oz","precio":4590,"referencia":5780,"ahorro":1190,"digitar":"14295"},
+      {"nombre":"Pan Huevo + Café 9 oz","precio":3790,"referencia":4980,"ahorro":1190,"digitar":"294"},
+      {"nombre":"Italiano Pollo + Café 9 oz","precio":5790,"referencia":7180,"ahorro":1390,"digitar":"15961"},
+      {"nombre":"Italiano Pollo + Bebida 350ml","precio":4990,"referencia":5880,"ahorro":890,"sucursal":"Coca-Cola, Sprite, Fanta original o zero"},
+      {"nombre":"Italiano Pollo + Refresh 473ml","precio":5990,"referencia":7680,"ahorro":1690,"digitar":"15961","sucursal":"Alameda, A. Pastene, Suecia, Tomás Moro y Las Vizcachas"},
+      {"nombre":"Ave Palta + Café 9 oz","precio":5690,"referencia":7080,"ahorro":1390,"digitar":"11573"},
+      {"nombre":"Ave Palta + Refresh 473ml","precio":5990,"referencia":7580,"ahorro":1590,"digitar":"15961","sucursal":"Alameda, A. Pastene, Suecia, Tomás Moro y Las Vizcachas"}
+    ]},
+    { "id": "combo-croissant", "titulo": "¡Combo Croissant!", "icono": "🥐", "productos": [
+      {"nombre":"Croissant Jamón Queso + Café 9 oz","precio":4890,"referencia":6280,"ahorro":1390,"digitar":"14351"},
+      {"nombre":"Croissant Ave Pimentón + Café 9 oz","precio":5190,"referencia":6480,"ahorro":1290,"digitar":"14352"},
+      {"nombre":"Ave Pimentón + Refresh 473ml","precio":4990,"referencia":6680,"ahorro":1690,"digitar":"14353","sucursal":"Alameda, A. Pastene, Suecia, Tomás Moro y Las Vizcachas"},
+      {"nombre":"Croissant Jamón Queso + Watts 350ml","precio":4490,"referencia":5480,"ahorro":990,"digitar":"14354"},
+      {"nombre":"Croissant Jamón Queso + Refresh 473ml","precio":5490,"referencia":6780,"ahorro":1290,"digitar":"14354","sucursal":"Alameda, A. Pastene, Suecia, Tomás Moro y Las Vizcachas"},
+      {"nombre":"Croissant Ave Pimentón + Watts 350ml","precio":4690,"referencia":5680,"ahorro":990,"digitar":"14355"},
+      {"nombre":"Croissant Ave Pimentón + Refresh 473ml","precio":5690,"referencia":6980,"ahorro":1290,"digitar":"14355","sucursal":"Alameda, A. Pastene, Suecia, Tomás Moro y Las Vizcachas"},
+      {"nombre":"Croissant Aliado Palta + Café 9 oz","precio":5190,"referencia":6480,"ahorro":1290,"digitar":"14960"},
+      {"nombre":"Croissant Aliado Palta + Watts 350ml","precio":4690,"referencia":5680,"ahorro":990,"digitar":"14962"},
+      {"nombre":"Croissant Aliado Palta + Refresh 473ml","precio":5690,"referencia":6980,"ahorro":1290,"digitar":"14962","sucursal":"Alameda, A. Pastene, Suecia, Tomás Moro y Las Vizcachas"}
+    ]},
+    { "id": "combo-sandwich", "titulo": "¡Combo Sándwich!", "icono": "🥪", "productos": [
+      {"nombre":"Sándwich Palta Pavo Integral + Watts 350ml","precio":5590,"referencia":6280,"ahorro":690,"digitar":"14963"},
+      {"nombre":"Sándwich Integral Palta Pavo + Refresh 473ml","precio":6490,"referencia":7580,"ahorro":1090,"digitar":"14963","sucursal":"Alameda, A. Pastene, Suecia, Tomás Moro y Las Vizcachas"},
+      {"nombre":"Sándwich Integral Pesto Pavo + Café 9 oz","precio":6190,"referencia":7480,"ahorro":1290,"digitar":"14945"},
+      {"nombre":"Sándwich Integral Pesto Pavo + Watts 350ml","precio":5990,"referencia":6680,"ahorro":690,"digitar":"14964"},
+      {"nombre":"Sándwich Integral Pesto Pavo + Refresh 473ml","precio":6890,"referencia":7980,"ahorro":1090,"digitar":"14964","sucursal":"Alameda, A. Pastene, Suecia, Tomás Moro y Las Vizcachas"},
+      {"nombre":"Sándwich Integral Ave Palta + Watts 350ml","precio":5590,"referencia":6280,"ahorro":690,"digitar":"15507"},
+      {"nombre":"Sándwich Integral Ave Palta + Café 9 oz","precio":5790,"referencia":7080,"ahorro":1290,"digitar":"15488"},
+      {"nombre":"Sándwich Integral Pierna Pesto + Café 9 oz","precio":6190,"referencia":7480,"ahorro":1290,"digitar":"15487"},
+      {"nombre":"Sándwich Integral Aliado Pierna Pesto + Watts 350ml","precio":5990,"referencia":6680,"ahorro":690,"digitar":"15506"},
+      {"nombre":"Sándwich Integral Aliado Pierna Pesto + Refresh 473ml","precio":6890,"referencia":7980,"ahorro":1090,"digitar":"15965","sucursal":"Alameda, A. Pastene, Suecia, Tomás Moro y Las Vizcachas"},
+      {"nombre":"Sándwich Integral Ave Palta + Refresh 473ml","precio":6490,"referencia":7580,"ahorro":1090,"digitar":"15962","sucursal":"Alameda, A. Pastene, Suecia, Tomás Moro y Las Vizcachas"},
+      {"nombre":"Sándwich Palta Pavo Integral + Café 9 oz","precio":5790,"referencia":7080,"ahorro":1290,"digitar":"14961"}
+    ]},
+    { "id": "combo-ciabatta", "titulo": "¡Combo Ciabatta!", "icono": "🥖", "productos": [
+      {"nombre":"Ciabatta Mechada Luco + Coca-Cola 350ml","precio":6090,"referencia":6580,"ahorro":490,"digitar":"15471"},
+      {"nombre":"Ciabatta Mechada Italiana + Coca-Cola 350ml","precio":6290,"referencia":6780,"ahorro":490,"digitar":"15472"},
+      {"nombre":"Ciabatta Lomito Luco + Coca-Cola 350ml","precio":5390,"referencia":5880,"ahorro":490,"digitar":"15473"},
+      {"nombre":"Ciabatta Lomito Italiano + Coca-Cola 350ml","precio":5590,"referencia":6080,"ahorro":490,"digitar":"15474"},
+      {"nombre":"Ciabatta Lomito Italiano + Refresh 473ml","precio":6490,"referencia":7880,"ahorro":1390,"digitar":"15955"},
+      {"nombre":"Ciabatta Lomito Luco + Refresh 473ml","precio":6390,"referencia":7680,"ahorro":1290,"digitar":"15956"},
+      {"nombre":"Ciabatta Mechada Italiana + Refresh 473ml","precio":7190,"referencia":8580,"ahorro":1390,"digitar":"15957"},
+      {"nombre":"Ciabatta Mechada Luco + Refresh 473ml","precio":6990,"referencia":8380,"ahorro":1390,"digitar":"15958"}
+    ]},
+    { "id": "combo-completo", "titulo": "¡Combo Completo!", "icono": "🌭", "productos": [
+      {"nombre":"Completo Tomate Mayo + Lata CCU 350ml","precio":3590,"referencia":4180,"ahorro":590,"digitar":"11821"},
+      {"nombre":"Completo Italiano + Lata CCU 350ml","precio":4390,"referencia":4980,"ahorro":590,"digitar":"11820"},
+      {"nombre":"Completo Americano + Lata CCU 350ml","precio":4390,"referencia":4980,"ahorro":590,"digitar":"14371"},
+      {"nombre":"2x Completo Tomate Mayo + Lata CCU 350ml","precio":6190,"referencia":7170,"ahorro":980,"digitar":"11828"},
+      {"nombre":"2x Completo Italiano + Lata CCU 350ml","precio":6990,"referencia":8770,"ahorro":1780,"digitar":"11827"},
+      {"nombre":"Completo Tomate Mayo + Refresh 473ml","precio":4990,"referencia":5980,"ahorro":990,"digitar":"15954","sucursal":"Alameda, A. Pastene, Suecia, Tomás Moro y Las Vizcachas"},
+      {"nombre":"Completo Italiano + Refresh 473ml","precio":5490,"referencia":6780,"ahorro":1290,"digitar":"15952","sucursal":"Alameda, A. Pastene, Suecia, Tomás Moro y Las Vizcachas"},
+      {"nombre":"Completo Americano + Refresh 473ml","precio":5490,"referencia":6780,"ahorro":1290,"digitar":"15953","sucursal":"Alameda, A. Pastene, Suecia, Tomás Moro y Las Vizcachas"},
+      {"nombre":"2x Completo Tomate Mayo + Refresh 473ml","precio":6790,"referencia":8970,"ahorro":2180,"digitar":"16024"},
+      {"nombre":"2x Completo Italiano + Refresh 473ml","precio":7490,"referencia":10570,"ahorro":3080,"digitar":"16025","sucursal":"Alameda, A. Pastene, Suecia, Tomás Moro y Las Vizcachas"}
+    ]},
+    { "id": "combo-compartir", "titulo": "¡Combo para Compartir!", "icono": "🎉", "productos": [
+      {"nombre":"4x Sándwich Ave Palta Integral + Bebida 1,5L","precio":16990,"referencia":20710,"ahorro":3720,"digitar":"15946"},
+      {"nombre":"4x Ciabatta Mechada Luco + Bebida 1,5L","precio":19990,"referencia":23910,"ahorro":3920,"digitar":"15945"},
+      {"nombre":"4x Ciabatta Lomito Italiano + Bebida 1,5L","precio":17990,"referencia":21910,"ahorro":3920,"digitar":"15947"}
+    ]},
+    { "id": "combos", "titulo": "¡Combos!", "icono": "🍕", "productos": [
+      {"nombre":"Canelones Carne 350g + Coca-Cola 350ml","precio":5490,"referencia":6640,"ahorro":1150},
+      {"nombre":"Lasaña Espinaca Champiñón 350g + Coca-Cola 350ml","precio":5490,"referencia":6640,"ahorro":1150},
+      {"nombre":"Pizza PF 250g + Bebida CCU 350ml","precio":3990,"referencia":5040,"ahorro":1050,"sucursal":"Aplica a pino, queso chanco, napolitana y chaparrita"},
+      {"nombre":"Empanada + Bebida CCU 350ml","precio":3290,"referencia":3940,"ahorro":650},
+      {"nombre":"Nueva Colación Fresca + Bebida CCU 310-350ml o Cachantún/Más 600ml","precio":6590,"referencia":7140,"ahorro":550,"sucursal":"Sucursales que manejan Deliboo"},
+      {"nombre":"Muffin + Café 9 oz","precio":3490,"referencia":4580,"ahorro":1090,"sucursal":"Arándano, Chips, Banana Nuez, Zanahoria"}
+    ]},
+    { "id": "combos-dulces", "titulo": "¡Combos Dulces!", "icono": "🧁", "productos": [
+      {"nombre":"Roll + Café 9 oz","precio":3290,"referencia":4480,"ahorro":1190},
+      {"nombre":"Galleta Get it + Café 9 oz","precio":3190,"referencia":4580,"ahorro":1390},
+      {"nombre":"Alfajor Bogati 80g + Café 9 oz","precio":3290,"referencia":4340,"ahorro":1050},
+      {"nombre":"Cuchuflí Bogati + Café 9 oz","precio":3290,"referencia":4780,"ahorro":1490},
+      {"nombre":"Protein Snack 42g + Café 9 oz","precio":3290,"referencia":4880,"ahorro":1590},
+      {"nombre":"Queque La Mendocina + Café 9 oz","precio":3290,"referencia":4680,"ahorro":1390},
+      {"nombre":"Media Luna + Café 9 oz","precio":2790,"referencia":3440,"ahorro":650},
+      {"nombre":"2x Media Luna","precio":1200,"referencia":1900,"ahorro":700,"digitar":"2x"},
+      {"nombre":"Dona + Café 9 oz","precio":3190,"referencia":3780,"ahorro":590,"sucursal":"Pedro de Valdivia y Vitacura 2909 · Avellana, Berry White o Queen Vainilla"}
+    ]},
+    { "id": "energeticas", "titulo": "Bebidas Energéticas", "icono": "⚡", "productos": [
+      {"nombre":"Score 500ml","precio":1500,"referencia":1890,"ahorro":390},
+      {"nombre":"2x Red Bull 250ml","precio":3380,"referencia":4300,"ahorro":920},
+      {"nombre":"2x Rockstar 500ml","precio":2480,"referencia":4180,"ahorro":1700},
+      {"nombre":"Monster 473ml","precio":1890,"referencia":2350,"ahorro":460,"sucursal":"Revisar precio vs. PDF"}
+    ]},
+    { "id": "bebidas", "titulo": "Bebidas", "icono": "🥤", "productos": [
+      {"nombre":"2x Coca-Cola 591ml","precio":2480,"referencia":3100,"ahorro":620},
+      {"nombre":"2x Bebida CCU 600ml","precio":2300,"referencia":2900,"ahorro":600},
+      {"nombre":"Bebida CCU 1,5L","precio":1850,"referencia":2350,"ahorro":500},
+      {"nombre":"Coca-Cola 3L","precio":3150,"referencia":3650,"ahorro":500},
+      {"nombre":"Más 600ml","precio":1100,"referencia":1450,"ahorro":350},
+      {"nombre":"2x Más 1,6L","precio":2980,"referencia":4180,"ahorro":1200},
+      {"nombre":"Watt's selección 350ml","precio":1290,"referencia":1690,"ahorro":400},
+      {"nombre":"2x Watt's 1,5L","precio":3780,"referencia":4700,"ahorro":920},
+      {"nombre":"2x Jumex 335ml","precio":2300,"referencia":2980,"ahorro":680},
+      {"nombre":"2x Benedictino 500ml","precio":1800,"referencia":2780,"ahorro":980},
+      {"nombre":"2x Benedictino 1,5L","precio":2480,"referencia":3580,"ahorro":1100},
+      {"nombre":"Skittles Bebida 414ml Original/Berry","precio":3290,"referencia":3990,"ahorro":700}
+    ]},
+    { "id": "aguas", "titulo": "Aguas", "icono": "💧", "productos": [
+      {"nombre":"Guallarauco Agua 500ml","precio":1490,"referencia":2090,"ahorro":600},
+      {"nombre":"Agua Sofruco 310ml","precio":1990,"referencia":2390,"ahorro":400},
+      {"nombre":"2x Manantial 600ml","precio":1780,"referencia":2780,"ahorro":1000},
+      {"nombre":"2x Más Citrus/Limón Frambuesa 310ml","precio":2000,"referencia":2580,"ahorro":580},
+      {"nombre":"2x Sparkling 350ml","precio":2680,"referencia":4380,"ahorro":1700},
+      {"nombre":"2x Cachantún 600ml","precio":1980,"referencia":2780,"ahorro":800},
+      {"nombre":"2x Cachantún 1,6L","precio":2680,"referencia":3700,"ahorro":1020},
+      {"nombre":"OKF Aloe 500ml","precio":1790,"referencia":2490,"ahorro":700}
+    ]},
+    { "id": "jugos-tes", "titulo": "Jugos y Tés", "icono": "🧃", "productos": [
+      {"nombre":"Lipton 1,5L","precio":1990,"referencia":2450,"ahorro":460},
+      {"nombre":"2x Lipton 600ml","precio":2500,"referencia":3380,"ahorro":880},
+      {"nombre":"Dilmah Lata 330ml","precio":1490,"referencia":1790,"ahorro":300},
+      {"nombre":"Del Valle 340ml","precio":1290,"referencia":1890,"ahorro":600}
+    ]},
+    { "id": "isotonicas", "titulo": "Isotónicas", "icono": "🏃", "productos": [
+      {"nombre":"2x Gatorade 1L","precio":3500,"referencia":4900,"ahorro":1400},
+      {"nombre":"2x Gatorlit 591ml","precio":4180,"referencia":5380,"ahorro":1200},
+      {"nombre":"Gatorade 750ml","precio":1490,"referencia":2290,"ahorro":800},
+      {"nombre":"Suerox 630ml","precio":2950,"referencia":3590,"ahorro":640},
+      {"nombre":"Suerox Polvo 20g","precio":1750,"referencia":1990,"ahorro":240},
+      {"nombre":"2x Citric 600ml","precio":2100,"referencia":2490,"ahorro":390},
+      {"nombre":"Fastlyte 625ml","precio":2590,"referencia":3150,"ahorro":560}
+    ]},
+    { "id": "chocolates", "titulo": "¡Chocolates!", "icono": "🍫", "productos": [
+      {"nombre":"Golden Nuss 140g","precio":2490,"referencia":3590,"ahorro":1100},
+      {"nombre":"Rolls 150g","precio":2350,"referencia":3190,"ahorro":840},
+      {"nombre":"Snicker Bar 52,7g","precio":1650,"referencia":2390,"ahorro":740},
+      {"nombre":"2x Baton 16g","precio":1000,"referencia":1780,"ahorro":780},
+      {"nombre":"2x Chokita/Super 8","precio":1000,"referencia":1980,"ahorro":980},
+      {"nombre":"Mantecol 41g","precio":990,"referencia":1390,"ahorro":400},
+      {"nombre":"Tableta Chocolate Bitter 60g","precio":5490,"referencia":5990,"ahorro":500},
+      {"nombre":"Napolitanas Mix de Chocolate 175g","precio":10990,"referencia":11990,"ahorro":1000},
+      {"nombre":"Ritter 100g","precio":3390,"referencia":4390,"ahorro":1000,"sucursal":"Pedir PIBAMOUR"},
+      {"nombre":"2x Brownie 62g","precio":1980,"referencia":2580,"ahorro":600},
+      {"nombre":"2x Cuchuflí 57/60g","precio":4180,"referencia":4580,"ahorro":400}
+    ]},
+    { "id": "entrelagos", "titulo": "¡Entrelagos!", "icono": "🍬", "productos": [
+      {"nombre":"Gullón Oblea 60g","precio":1490,"referencia":2090,"ahorro":600},
+      {"nombre":"Rollo Mazapán 55/58g","precio":2450,"referencia":2690,"ahorro":240},
+      {"nombre":"2x Alfajor Artesanal 40/45g","precio":2880,"referencia":3980,"ahorro":1100},
+      {"nombre":"2x Alfajor Artesanal sin Azúcar 45g","precio":3280,"referencia":4380,"ahorro":1100}
+    ]},
+    { "id": "dulces-chicles", "titulo": "¡Dulces y Chicles!", "icono": "🍭", "productos": [
+      {"nombre":"Gomita Haribo 80g","precio":1390,"referencia":2090,"ahorro":700},
+      {"nombre":"Skittles Variedades 51-61,5g","precio":1490,"referencia":1890,"ahorro":400},
+      {"nombre":"Ricola 27,5g","precio":1590,"referencia":2190,"ahorro":600},
+      {"nombre":"Orbit Botella 64g","precio":4290,"referencia":4790,"ahorro":500},
+      {"nombre":"2x Trident Infinit 14und","precio":2480,"referencia":3300,"ahorro":820},
+      {"nombre":"2x Halls 25,2g","precio":1280,"referencia":1980,"ahorro":700},
+      {"nombre":"2x Alka 28g","precio":1280,"referencia":1980,"ahorro":700},
+      {"nombre":"Orbit 14g","precio":1000,"referencia":1290,"ahorro":290,"sucursal":"Pedir Promerco"},
+      {"nombre":"2x Push Pop 15g","precio":2190,"referencia":3780,"ahorro":1590},
+      {"nombre":"2x Compass Fresh Mint 14g","precio":2980,"referencia":4180,"ahorro":1200,"sucursal":"Vitacura 2909"},
+      {"nombre":"2x Tritón 126g","precio":1880,"referencia":2580,"ahorro":700}
+    ]},
+    { "id": "barras", "titulo": "¡Barras!", "icono": "🌾", "productos": [
+      {"nombre":"Barra Munchy 30g","precio":1200,"referencia":1790,"ahorro":590,"sucursal":"Pedir PGB"},
+      {"nombre":"2x Barkeys 50g","precio":5480,"referencia":8980,"ahorro":3500},
+      {"nombre":"2x Brownie Nutra Bien 50/70g","precio":1990,"referencia":2580,"ahorro":600},
+      {"nombre":"2x Mankeke Manjar 90g","precio":1880,"referencia":2700,"ahorro":820},
+      {"nombre":"2x Protein Wild 45g","precio":2800,"referencia":4580,"ahorro":1780,"sucursal":"Pedir PGB"},
+      {"nombre":"2x Wildfit 35g","precio":2680,"referencia":4180,"ahorro":1500},
+      {"nombre":"Protein Snack 42g","precio":1690,"referencia":2290,"ahorro":600},
+      {"nombre":"Wild Protein 60g","precio":1990,"referencia":2890,"ahorro":900,"sucursal":"Pedir PGB"}
+    ]},
+    { "id": "galletas-dulces", "titulo": "¡Galletas y Masas Dulces!", "icono": "🍪", "productos": [
+      {"nombre":"Alfajor Cachafaz 72% Cacao 64g","precio":2390,"referencia":2990,"ahorro":600},
+      {"nombre":"Alfajor/Conito Cachafaz 38-76g","precio":1690,"referencia":2290,"ahorro":600},
+      {"nombre":"Alfajor Bogati","precio":1450,"referencia":1750,"ahorro":300},
+      {"nombre":"Tuareg 120g","precio":1000,"referencia":1390,"ahorro":390},
+      {"nombre":"Galleta Costa 125g","precio":1190,"referencia":1790,"ahorro":600},
+      {"nombre":"2x Oreo 108g","precio":2300,"referencia":2980,"ahorro":680},
+      {"nombre":"2x Frac 130g","precio":2000,"referencia":2800,"ahorro":800},
+      {"nombre":"2x Nik 71g","precio":1480,"referencia":2180,"ahorro":700},
+      {"nombre":"Donuts 100g / Gretel 85g / Obsesión 85g","precio":1650,"referencia":2350,"ahorro":700},
+      {"nombre":"Queque Schlunder 400g","precio":4790,"referencia":5990,"ahorro":1200},
+      {"nombre":"Galleta Sándwich 250g","precio":3490,"referencia":5090,"ahorro":1600}
+    ]},
+    { "id": "galletas-saludables", "titulo": "¡Galletas Saludables!", "icono": "🌿", "productos": [
+      {"nombre":"Salmas Clásicas 108g","precio":2150,"referencia":2590,"ahorro":440,"sucursal":"Vitacura 2909"},
+      {"nombre":"2x Crack 90g","precio":1990,"referencia":2700,"ahorro":710,"sucursal":"Vitacura 2909"},
+      {"nombre":"BE Naranja Choco 162g","precio":1590,"referencia":1850,"ahorro":260},
+      {"nombre":"BE 0% 135g","precio":1950,"referencia":2150,"ahorro":200},
+      {"nombre":"BE Maíz 100g","precio":1690,"referencia":2150,"ahorro":460},
+      {"nombre":"BE Quinoa 110g","precio":1490,"referencia":1850,"ahorro":360},
+      {"nombre":"BE Snack Multigrano Sésamo Negro y Sal de Mar 100g","precio":2690,"referencia":2950,"ahorro":260},
+      {"nombre":"BE Snack de Maíz Cheezy Chips 100g","precio":1750,"referencia":1990,"ahorro":240},
+      {"nombre":"Gullón Fibra Integral 170g","precio":2690,"referencia":3750,"ahorro":1060}
+    ]},
+    { "id": "snacks", "titulo": "¡Snacks!", "icono": "🍟", "productos": [
+      {"nombre":"2x Twistos 100g","precio":3480,"referencia":4500,"ahorro":1020},
+      {"nombre":"Ramitas Evercrisp 230g","precio":2490,"referencia":3390,"ahorro":900},
+      {"nombre":"Lays Stax 134g","precio":2990,"referencia":3490,"ahorro":500},
+      {"nombre":"Lays 170g","precio":2750,"referencia":3250,"ahorro":500},
+      {"nombre":"Lays Artesanal 150g","precio":2990,"referencia":3690,"ahorro":700},
+      {"nombre":"Takis 190g","precio":2290,"referencia":2690,"ahorro":400},
+      {"nombre":"2x Papas Fritas Lapotato 45g","precio":1580,"referencia":2380,"ahorro":800},
+      {"nombre":"Papas Fritas Lapotato 100g","precio":1750,"referencia":2390,"ahorro":640},
+      {"nombre":"2x Maní Japonés Kazai 80g","precio":2780,"referencia":3780,"ahorro":1000},
+      {"nombre":"2x Maní con/sin Sal 150g","precio":2500,"referencia":3780,"ahorro":1280},
+      {"nombre":"Maní con Sal de Mar 150g","precio":1590,"referencia":1990,"ahorro":400},
+      {"nombre":"Almendras Natural 100g","precio":2490,"referencia":2990,"ahorro":500},
+      {"nombre":"Nuez Mariposa 100g","precio":2790,"referencia":3990,"ahorro":1200},
+      {"nombre":"Castaña de Cajú 80g","precio":2990,"referencia":4190,"ahorro":1200},
+      {"nombre":"Trail Mix 80g","precio":1490,"referencia":1950,"ahorro":460},
+      {"nombre":"Tropical Mix 70g","precio":1490,"referencia":1950,"ahorro":460},
+      {"nombre":"Vita Mix 80g","precio":1490,"referencia":1950,"ahorro":460},
+      {"nombre":"Dely Mix 70g","precio":1490,"referencia":1950,"ahorro":460},
+      {"nombre":"Hawaii Mix 120g","precio":1590,"referencia":2290,"ahorro":700},
+      {"nombre":"Euphoria Mix 180g","precio":2890,"referencia":3490,"ahorro":600,"sucursal":"Revisar vigencia (PDF dice mayo-julio)"},
+      {"nombre":"Yumi 25g","precio":3190,"referencia":3690,"ahorro":500},
+      {"nombre":"Snack Mini 50g","precio":1350,"referencia":2490,"ahorro":1140}
+    ]},
+    { "id": "cecinas-quesos", "titulo": "¡Cecinas y Quesos!", "icono": "🧀", "productos": [
+      {"nombre":"2x Queso Crema 100g Ajo/Natural/Tomate","precio":3980,"referencia":4780,"ahorro":800},
+      {"nombre":"2x Paté Ternera 125g","precio":1500,"referencia":2700,"ahorro":1200},
+      {"nombre":"Jamón Pierna 200g","precio":3190,"referencia":3890,"ahorro":700},
+      {"nombre":"Salame Artesanal 100g","precio":2300,"referencia":3190,"ahorro":890},
+      {"nombre":"2x Salchicha Premium 250g","precio":3680,"referencia":5580,"ahorro":1900},
+      {"nombre":"Queso Gauda 500g","precio":5790,"referencia":6850,"ahorro":1060},
+      {"nombre":"Queso Río Bueno 250g","precio":4290,"referencia":4950,"ahorro":660}
+    ]},
+    { "id": "lacteos", "titulo": "¡Lácteos!", "icono": "🥛", "productos": [
+      {"nombre":"Mantequilla Las Parcelas 200g","precio":3150,"referencia":3590,"ahorro":440},
+      {"nombre":"2x Desayunow 330ml","precio":2580,"referencia":2980,"ahorro":400},
+      {"nombre":"2x Leche Colun 200ml","precio":1500,"referencia":1980,"ahorro":480},
+      {"nombre":"2x Café Helado Nescafé 240ml","precio":2290,"referencia":3190,"ahorro":900},
+      {"nombre":"2x Shake AKA 330ml","precio":2790,"referencia":3290,"ahorro":500}
+    ]},
+    { "id": "helados", "titulo": "Helados", "icono": "🍦", "productos": [
+      {"nombre":"2x Franuí 150g","precio":10480,"referencia":13180,"ahorro":2700},
+      {"nombre":"Crazy 170ml","precio":1690,"referencia":2190,"ahorro":500}
+    ]},
+    { "id": "despensa", "titulo": "¡Alimentos de Despensa!", "icono": "🥫", "productos": [
+      {"nombre":"2x Garbanzos/Porotos Negros 380g Wasil","precio":2680,"referencia":3380,"ahorro":700,"sucursal":"Vitacura 2909"},
+      {"nombre":"2x Atún Lomito en Agua/Aceite San Remo","precio":3380,"referencia":4380,"ahorro":1000,"sucursal":"Vitacura 2909"},
+      {"nombre":"Té Dilmah Ceylon 36g","precio":1990,"referencia":2290,"ahorro":300,"sucursal":"Vitacura 2909"},
+      {"nombre":"2x Mr. Noodles 64g","precio":1980,"referencia":2780,"ahorro":800}
+    ]},
+    { "id": "frescos-preparados", "titulo": "¡Alimentos Frescos Preparados!", "icono": "🍱", "productos": [
+      {"nombre":"Daily American Burger 187g","precio":3490,"referencia":4090,"ahorro":600},
+      {"nombre":"Ave Pimentón, Ave Mayo o Ave Champiñón 175g","precio":2890,"referencia":3690,"ahorro":800},
+      {"nombre":"2x Onigiri Pollo Teriyaki, Atún Mayo o Salmón 130g","precio":3980,"referencia":5580,"ahorro":1600,"sucursal":"Tiendas seleccionadas"}
+    ]},
+    { "id": "getit-frozino", "titulo": "Bebida Get it & Frozino", "icono": "🧋", "productos": [
+      {"nombre":"Smoothie 473ml Purple, Mango y Kiwi","precio":4490,"referencia":4990,"ahorro":500,"sucursal":"Tiendas seleccionadas"},
+      {"nombre":"Frozino Caramel 473ml","precio":3990,"referencia":5190,"ahorro":1200,"sucursal":"Tiendas seleccionadas"},
+      {"nombre":"Frozino Latte 473ml","precio":2990,"referencia":5190,"ahorro":2200,"sucursal":"Tiendas seleccionadas"},
+      {"nombre":"Frozino Mocha Dark 473ml","precio":3990,"referencia":5190,"ahorro":1200,"sucursal":"Tiendas seleccionadas"},
+      {"nombre":"Limonada o Ice Tea 473ml","precio":2990,"referencia":2990,"ahorro":0,"sucursal":"Tiendas seleccionadas"},
+      {"nombre":"2x Limonada o Ice Tea 473ml","precio":5000,"referencia":5980,"ahorro":980,"digitar":"15704","sucursal":"Tiendas seleccionadas"}
+    ]},
+    { "id": "hogar", "titulo": "¡Cuidado Personal y de Hogar!", "icono": "🧻", "productos": [
+      {"nombre":"Elite 4 Rollos 50m","precio":3990,"referencia":5290,"ahorro":1300,"sucursal":"Vitacura 2909"},
+      {"nombre":"2x Nova Ultra 1 Rollo 26m","precio":3380,"referencia":3980,"ahorro":600,"sucursal":"Vitacura 2909"}
+    ]},
+    { "id": "alcohol", "titulo": "Alcohol", "icono": "🍷", "productos": [
+      {"nombre":"2x Royal Sweet Lager/Rosé Lager 350ml","precio":2880,"referencia":3580,"ahorro":700,"sucursal":"Vitacura 2909"},
+      {"nombre":"2x Six Pack Cristal 350ml","precio":9690,"referencia":13180,"ahorro":3490,"sucursal":"Vitacura 2909"},
+      {"nombre":"2x Six Pack Cristal Ultra 470ml","precio":12490,"referencia":13980,"ahorro":1490,"sucursal":"Vitacura 2909"},
+      {"nombre":"2x Six Pack Escudo 350ml","precio":10990,"referencia":13180,"ahorro":2190,"sucursal":"Vitacura 2909"},
+      {"nombre":"2x Six Pack Royal 350ml","precio":10990,"referencia":15380,"ahorro":4590,"sucursal":"Vitacura 2909"},
+      {"nombre":"2x Six Pack Cusqueña 473ml","precio":13980,"referencia":16780,"ahorro":2800,"sucursal":"Vitacura 2909"},
+      {"nombre":"2x Six Pack Heineken 350ml","precio":13980,"referencia":16980,"ahorro":3000,"sucursal":"Vitacura 2909"},
+      {"nombre":"2x Six Pack Corona 330ml","precio":14500,"referencia":17980,"ahorro":3480,"sucursal":"Vitacura 2909"},
+      {"nombre":"2x Four Pack Austral 330ml","precio":14980,"referencia":16580,"ahorro":1600,"sucursal":"Vitacura 2909"},
+      {"nombre":"2x Kunstmann Torobayo 470ml","precio":4150,"referencia":5380,"ahorro":1230,"sucursal":"Vitacura 2909"},
+      {"nombre":"2x Kunstmann Radler Limón 470ml","precio":4290,"referencia":5380,"ahorro":1090,"sucursal":"Vitacura 2909"},
+      {"nombre":"3x Kunstmann Valdivia 470ml","precio":4800,"referencia":5970,"ahorro":720,"sucursal":"Vitacura 2909"},
+      {"nombre":"3x Patagonia Lager 470ml","precio":4950,"referencia":5670,"ahorro":720,"sucursal":"Vitacura 2909"},
+      {"nombre":"2x Patagonia Mix Épico 350ml","precio":3180,"referencia":3780,"ahorro":600,"sucursal":"Vitacura 2909"},
+      {"nombre":"6x Stones 350ml","precio":6990,"referencia":8940,"ahorro":1950,"sucursal":"Vitacura 2909"},
+      {"nombre":"4x Escudo Silver 710ml","precio":5600,"referencia":5960,"ahorro":360,"sucursal":"Vitacura 2909"},
+      {"nombre":"4x Kross Golden 710ml","precio":8980,"referencia":10760,"ahorro":1780,"sucursal":"Vitacura 2909"},
+      {"nombre":"Cerveza Ayinger Variedades","precio":2850,"referencia":3290,"ahorro":440,"sucursal":"Vitacura 2909"},
+      {"nombre":"2x Cerveza Mahou Clásica 500ml","precio":1500,"referencia":2380,"ahorro":880,"sucursal":"Vitacura 2909"},
+      {"nombre":"Cerveza Straffe Hendrik Tripel 330ml","precio":4150,"referencia":4490,"ahorro":340,"sucursal":"Vitacura 2909"},
+      {"nombre":"Cerveza Blanche de Bruges 330ml","precio":3790,"referencia":4190,"ahorro":400,"sucursal":"Vitacura 2909"},
+      {"nombre":"Cerveza Brugse Zot 330ml","precio":3890,"referencia":4290,"ahorro":400,"sucursal":"Vitacura 2909"},
+      {"nombre":"Cerveza Brugse Zot Blond 330ml","precio":3790,"referencia":4190,"ahorro":400,"sucursal":"Vitacura 2909"},
+      {"nombre":"Cerveza Ira!/Gran IPA 473ml","precio":3750,"referencia":4190,"ahorro":400,"sucursal":"Vitacura 2909"},
+      {"nombre":"2x Sangría Lola 750ml","precio":11980,"referencia":15180,"ahorro":3200,"sucursal":"Vitacura 2909"},
+      {"nombre":"2x Vino Diablo 750ml","precio":13980,"referencia":16580,"ahorro":2600,"sucursal":"Vitacura 2909"},
+      {"nombre":"2x Vino Castillo de Molina Gran Reserva 750ml","precio":13980,"referencia":15780,"ahorro":1800,"sucursal":"Vitacura 2909"},
+      {"nombre":"2x Vino Carmen Frida Kahlo/Gran Reserva 750ml","precio":14980,"referencia":18980,"ahorro":4000,"sucursal":"Vitacura 2909"},
+      {"nombre":"3x Vino Aliwen 750ml","precio":11990,"referencia":14670,"ahorro":2680,"sucursal":"Vitacura 2909"},
+      {"nombre":"3x Vino Santa Ema Select Terroir 750ml","precio":14990,"referencia":19170,"ahorro":4180,"sucursal":"Vitacura 2909"},
+      {"nombre":"Alto del Carmen 750ml + Bebida 1,5L","precio":9790,"referencia":10840,"ahorro":1050,"sucursal":"Vitacura 2909"},
+      {"nombre":"Gin Gordon's 750ml + Bebida 1,5L","precio":13490,"referencia":17340,"ahorro":3850,"sucursal":"Vitacura 2909"},
+      {"nombre":"Gin Tanqueray 700ml + Bebida 1,5L","precio":18490,"referencia":24340,"ahorro":5850,"sucursal":"Vitacura 2909"},
+      {"nombre":"Whisky JW Red Label 750ml + Bebida 1,5L","precio":13990,"referencia":16340,"ahorro":2350,"sucursal":"Vitacura 2909"},
+      {"nombre":"Pisco Republicano 40° 750ml + Bebida 1,5L","precio":11490,"referencia":12940,"ahorro":1450,"sucursal":"Vitacura 2909"},
+      {"nombre":"Pisco Mal Paso 35° 1L + Bebida 1,5L","precio":9690,"referencia":11340,"ahorro":1650,"sucursal":"Vitacura 2909"},
+      {"nombre":"Ron Bacardí Añejo 700ml + Bebida 1,5L","precio":10690,"referencia":12140,"ahorro":1450,"sucursal":"Vitacura 2909"},
+      {"nombre":"Pisco 3R Especial 750ml + Bebida 1,5L","precio":7990,"referencia":10340,"ahorro":2350,"sucursal":"Vitacura 2909"},
+      {"nombre":"Fernet Rossard 1L + Bebida 1,5L","precio":9490,"referencia":10940,"ahorro":1450,"sucursal":"Vitacura 2909"},
+      {"nombre":"Aperol 750ml + 2 Espumantes Undurraga Brut 750ml","precio":19990,"referencia":23170,"ahorro":3180,"sucursal":"Vitacura 2909"}
+    ]},
+    { "id": "exclusivas", "titulo": "Promociones Exclusivas Clientes", "icono": "⭐", "productos": [
+      {"nombre":"Aliado Pierna + Bebida 350ml","precio":2690,"referencia":3640,"ahorro":950,"digitar":"16537"},
+      {"nombre":"Media Luna + Café Get it 9 oz","precio":2390,"referencia":3540,"ahorro":1150,"digitar":"15703"},
+      {"nombre":"Colación Fresca + Coca-Cola 350ml","precio":5450,"referencia":5890,"ahorro":440,"digitar":"15145"},
+      {"nombre":"Completo Italiano + Bebida 350ml","precio":4490,"referencia":5740,"ahorro":1250,"digitar":"15148"},
+      {"nombre":"5 Tequeños + Café 9 oz","precio":4190,"referencia":5680,"ahorro":1490}
+    ]}
+  ]
+}

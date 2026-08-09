@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800;900&family=Poppins:wght@400;500;600&display=swap');
-:root{--rojo:#E31E24;--amarillo:#FFC400;--negro:#1a1a1a;--gris:#8a8a8a;--f-titulo:'Montserrat',sans-serif;--f-texto:'Poppins',sans-serif}
+:root{--rojo:#0D8063;--verde:#0D8063;--amarillo:#EC8626;--naranja:#EC8626;--negro:#1a1a1a;--gris:#8a8a8a;--f-titulo:'Montserrat',sans-serif;--f-texto:'Poppins',sans-serif}
 *{margin:0;padding:0;box-sizing:border-box}body{background:#f4f4f2;font-family:var(--f-texto);color:var(--negro)}
-header{background:var(--rojo);color:#fff;display:flex;gap:1rem;align-items:center;padding:.7rem 1rem;position:sticky;top:0;z-index:5}
-.logo{font-family:var(--f-titulo);font-weight:900;color:#fff;text-decoration:none;font-size:1.2rem}
-#buscar{flex:1;border:none;border-radius:8px;padding:.55rem .8rem}
+header{background:#fff;border-bottom:4px solid var(--naranja);color:var(--negro);display:flex;gap:1rem;align-items:center;padding:.6rem 1rem;position:sticky;top:0;z-index:5}
+.logo{display:flex;align-items:center}.logo-img{height:32px;display:block;filter:drop-shadow(0 1px 1px rgba(0,0,0,.15))}
+#buscar{flex:1;border:2px solid #eee;border-radius:8px;padding:.55rem .8rem;font-family:var(--f-texto)}#buscar:focus{outline:none;border-color:var(--verde)}
 .portada{background:var(--negro);color:#fff;text-align:center;padding:1rem}
-.portada h1{font-family:var(--f-titulo);font-weight:900;text-transform:uppercase;font-size:1.3rem;color:var(--amarillo)}
+.portada h1{font-family:var(--f-titulo);font-weight:900;text-transform:uppercase;font-size:1.3rem;color:var(--naranja)}
 .portada p{font-size:.8rem;letter-spacing:1px}
 main{max-width:1150px;margin:1.2rem auto;padding:0 1rem}
 .titulo-cat{font-family:var(--f-titulo);font-weight:900;text-transform:uppercase;color:var(--rojo);font-size:1.6rem;border-bottom:5px solid var(--amarillo);display:inline-block;padding-bottom:.2rem;margin:.8rem 0 1.2rem}
@@ -21,7 +21,7 @@ main{max-width:1150px;margin:1.2rem auto;padding:0 1rem}
 .cuerpo h3{font-family:var(--f-titulo);font-weight:800;text-transform:uppercase;font-size:.82rem;min-height:2.2em}
 .precio{font-family:var(--f-titulo);font-weight:900;color:var(--rojo);font-size:1.6rem;line-height:1}
 .ref{font-size:.68rem;color:var(--gris);text-transform:uppercase}
-.badge{background:var(--amarillo);font-family:var(--f-titulo);font-weight:800;font-size:.72rem;border-radius:6px;padding:.25rem .6rem;align-self:flex-start;text-transform:uppercase}
+.badge{background:var(--naranja);color:#fff;font-family:var(--f-titulo);font-weight:800;font-size:.72rem;border-radius:6px;padding:.25rem .6rem;align-self:flex-start;text-transform:uppercase}
 .meta{font-size:.68rem;color:var(--gris)}.meta b{color:var(--negro)}
 .back{color:var(--rojo);font-weight:700;text-decoration:none;font-family:var(--f-titulo)}
 footer{text-align:center;padding:1.5rem;color:var(--gris);font-size:.75rem}
